@@ -7,13 +7,14 @@ I'm a passionate software technologist with a knack for game development on the 
 
 ## What I Do
 - **Software Technology**: Crafting efficient and scalable software solutions.
-- **Game Development**: Bringing virtual worlds to life with engaging gameplay and stunning visuals.
+- **Game Development**: Bringing virtual worlds to life with engaging gameplay and stunning visuals. Visit my itch.io to see my games : https://boredstudios.itch.io/
 
 ## Let's Connect!
 Feel free to reach out to me for collaboration or just to say hi! 😊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanhans123&show_icons=true&theme=radical)
-
+## What I Do
+- **Software Technology**: Crafting efficient and scalable software solutions.
+- **Game Development**: Bringing virtual worlds to life with engaging gameplay and stunning visuals.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanhans123&layout=compact&theme=radical)
 
 ## Fun Facts
