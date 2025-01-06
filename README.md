@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**jonathanhans123/jonathanhans123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jonathan Hans! 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate software technologist with a knack for game development on the side. I love diving into new technologies and creating innovative solutions. When I'm not coding, you can find me exploring the latest in game design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- **Software Technology**: Crafting efficient and scalable software solutions.
+- **Game Development**: Bringing virtual worlds to life with engaging gameplay and stunning visuals.
+
+## Let's Connect!
+Feel free to reach out to me for collaboration or just to say hi! 😊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanhans123&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanhans123&layout=compact&theme=radical)
+
+## Fun Facts
+- 🎮 I love creating and playing video games.
+- 💻 Always excited to learn about new technologies.
+- 🌟 Striving to make a positive impact through my work.
+
+Thanks for stopping by! Have a great day! 🌟
+
